@@ -62,7 +62,7 @@ CREATE TABLE `obat` (
 --
 
 INSERT INTO `obat` (`obat_kd`, `obat_nama`, `jenis`, `kd_produksi`, `exp`) VALUES
-(1, 'Gatau', 'TEST', '22-00-991', '22 Mei 2022');
+(1, 'Gatau', 'TEST', 'TEST', '22 Mei 2022');
 
 -- --------------------------------------------------------
 
