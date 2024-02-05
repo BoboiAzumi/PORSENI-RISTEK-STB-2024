@@ -13,4 +13,4 @@ Sebenarnya waktunya bisa saja cukup untuk melakukan finishing, Akan tetapi akiba
 2. Kesalahan format form
 3. Finishing UI yang kurang maksimal
 
-Tapi syukurlah bisa meraih juara 2 :v, ternyata peserta lain lebih parah
+Tapi syukurlah bisa meraih juara 2 :v, ternyata peserta lain lebih parah :v
